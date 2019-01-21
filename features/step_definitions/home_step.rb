@@ -1,7 +1,7 @@
 require_relative 'pages/page_actions'
 
 Given("I browse to the tech rador home page") do
-  $webdriver.navigate.to $baseurl
+  go_to_page(@baseurl)
 end
 
 Then("A radar quadrant is displayed") do

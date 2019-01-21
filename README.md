@@ -8,7 +8,6 @@ gem install bundler
 bundle install
 gem install cucumber
 sudo gem install selenium-webdriver
-gem install rspec
 ```
 
 ### chromedriver
