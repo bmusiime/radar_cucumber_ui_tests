@@ -9,7 +9,7 @@ end
 
 After do |scenario|
   if scenario.failed?
-      @webdriver.save_screenshot "./#{Time.now.strftime("failshot__%d_%m_%Y__%H_%M_%S")}.png"
+      @webdriver.save_screenshot "./screenshots/#{Time.now.strftime("failshot__%d_%m_%Y__%H_%M_%S")}.png"
     end
     @webdriver.quit
 end

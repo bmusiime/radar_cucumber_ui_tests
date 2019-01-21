@@ -1,6 +1,6 @@
 require_relative 'pages/page_actions'
 
-Given("I browse to the tech rador home page") do
+Given("I browse to the tech rador home page") do 
   go_to_page(@baseurl)
 end
 
