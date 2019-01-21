@@ -1,5 +1,5 @@
 # Get started
-This tests are degigned to test Scored App: https://github.com/bmusiime/scored as such, there is need to download and start this app before running the tests.
+This tests are degigned to test TW tech radar(https://www.thoughtworks.com/radar/) as such, there is need to confirm if you can access this page before running tests.
 
 ## Install requirements
 ```
