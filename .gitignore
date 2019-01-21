@@ -1,10 +1,10 @@
 
 */.Ds_Store/*
 */.ds_store/*
-screenshots/*
+/screenshots/*.png
 *.gem
 # .env
-/result/report.html
+result/report.html
 /.bundle/
 /vendor/bundle
 /lib/bundler/man/
